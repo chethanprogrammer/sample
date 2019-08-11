@@ -9,3 +9,8 @@ print("hey there!! my name is {} and i am {} years old".format(name,age))
 print("hey there!! my name is {0[name]} and i am {0[age]} yeras old".format(dic))
 print("hey there!! my name is {0} and i am {0} yeras old".format(dic["name"],dic["age"]))
 print("hey there!! my name is {0[0]} and i am {0[1]} yeras old".format(dic))
+print("thank you")
+      
+      
+      
+print("end")
